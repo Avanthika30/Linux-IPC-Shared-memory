@@ -66,7 +66,7 @@ int main() {
 
 ```
 ## OUTPUT
-
+![image](ex6.png)
 
 # RESULT:
 The program is executed successfully.
